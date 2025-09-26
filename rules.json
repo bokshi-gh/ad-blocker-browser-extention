@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "https://assets-cdn.ekantipur.com/uploads/source/ads/*", "resourceTypes": ["script", "image", "xmlhttprequest", "sub_frame"] }
+  }
+]
+
