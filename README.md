@@ -1,3 +1,3 @@
-# ad-blocker-browser-extention
+# AIDS Blocker
 
-Ad blocking browser extention.
+Ad blocking browser extention
